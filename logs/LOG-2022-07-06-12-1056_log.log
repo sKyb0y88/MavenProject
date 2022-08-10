@@ -1,0 +1,2 @@
+12:10:56.050 [main] ERROR Curs12.LogExample - This is error level
+12:10:56.054 [main] FATAL Curs12.LogExample - This is fatal level

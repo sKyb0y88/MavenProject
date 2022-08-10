@@ -1,0 +1,2 @@
+12:10:22.764 [main] ERROR Curs12.LogExample - This is info error
+12:10:22.769 [main] FATAL Curs12.LogExample - This is info fatal

@@ -1,0 +1,19 @@
+12:32:30.884 [main] INFO  Curs12.Log - ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+12:32:30.888 [main] INFO  Curs12.Log - Start test case: testLogging
+12:32:30.893 [main] INFO  Curs12.Log - Start time: 2022.07.06.12.32.30
+12:32:30.893 [main] INFO  Curs12.Log - ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+12:32:30.898 [main] INFO  Curs12.Log - This is a log test
+12:32:30.899 [main] INFO  Curs12.Log - ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+12:32:30.901 [main] INFO  Curs12.Log - Passed test case: testLogging
+12:32:30.901 [main] INFO  Curs12.Log - End time: 2022.07.06.12.32.30
+12:32:30.901 [main] INFO  Curs12.Log - ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+12:32:30.903 [main] INFO  Curs12.Log - ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+12:32:30.903 [main] INFO  Curs12.Log - Start test case: testProduct
+12:32:30.903 [main] INFO  Curs12.Log - Start time: 2022.07.06.12.32.30
+12:32:30.903 [main] INFO  Curs12.Log - ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+12:32:30.904 [main] INFO  Curs12.Log - This is a product test
+12:32:30.906 [main] ERROR Curs12.Log - ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+12:32:30.906 [main] ERROR Curs12.Log - Failed test case: testProduct
+12:32:30.907 [main] ERROR Curs12.Log - Failed time: 2022.07.06.12.32.30
+12:32:30.907 [main] ERROR Curs12.Log - java.lang.AssertionError: expected [true] but found [false]
+12:32:30.907 [main] ERROR Curs12.Log - ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
